@@ -1,5 +1,5 @@
 
-command:"set-network.widget/getnet.sh"
+command:"Set-networking.widget/getnet.sh"
 
 
 refreshFrequency: 5000
