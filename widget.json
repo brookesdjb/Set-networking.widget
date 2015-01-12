@@ -1,0 +1,6 @@
+{
+  "name": "Set-Networking",
+  "description": "a widget to easily set your ip address to Static or DHCP",
+  "author": "David Brookes",
+  "email": "brookes.dj@gmail.com"
+}
